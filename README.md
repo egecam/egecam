@@ -1,4 +1,4 @@
-## Hey 👋
+### Hey 👋
 # I'm Ege
 ### I am a front-end developer
 
