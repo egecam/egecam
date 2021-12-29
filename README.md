@@ -1,5 +1,5 @@
 ### Hey 👋
-## I'm Ege
+# I'm Ege
 ### I am a back-end developer
 
 - 🌱 I’m currently learning MongoDB.
