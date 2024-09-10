@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Ege 👋
 
-<!--
-**egecam/egecam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an iOS developer, musician and photographer based in Istanbul, Turkiye. Currently crafting my indie apps.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my iOS app [Doku](https://github.com/egecam/Doku). Have a look, leave some feedbacks!
+  
+### ⭐ My favourite projects:
+- [Vizor](https://github.com/egecam/Vizor) is a photography app for iOS with a stunning daylight presentation and a dynamic feed.
+- [RateMyCocktail](https://github.com/egecam/RateMyCocktail) is a cool social platform for cocktail enthusiasts.
+- [Music Recommendation System](https://github.com/egecam/MusicRecommendationSystem) is an intelligent system employs advanced collaborative filtering techniques to connect listeners with their next favorite track.
+- [4sk](https://github.com/egecam/4sk) is a free and open source command line interface for your favourite LLM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ 📫 How to reach me: send an [email](mailto:egecam000@gmail.com) or DM me on [Twitter/X](https://x.com/egecamdev).
